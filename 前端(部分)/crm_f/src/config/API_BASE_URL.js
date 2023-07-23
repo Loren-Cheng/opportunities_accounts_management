@@ -6,8 +6,8 @@ class ApiBaseUrl {
 
   /**
    * 
-   * @param {string} entity ex.opportunity, account
-   * @returns {string} API_BASE_URL/'${entity}' ex.http://localhost:8080/api/opportunity
+   * @param 
+   * @returns {string} API_BASE_URL/ ex.http://localhost:8080/api/
    */
   get(){
     return API_BASE_URL;
