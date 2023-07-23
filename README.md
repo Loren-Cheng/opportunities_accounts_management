@@ -1,4 +1,4 @@
-# opportunities_accounts_management
+# opportunities_accounts_management(in Progress)  
 前後端分離的客戶關係管理中，客戶及商機管理部分(in Progress)  
 待實作:  
 　　-關聯部分資訊在request後怎麼整個enetity的allFields，setFieldsp到表格內)。  
@@ -19,3 +19,4 @@
 <img width="1439" alt="前端編輯中_截圖 2023-07-23 下午3 00 52" src="https://github.com/Loren-Cheng/opportunities_accounts_management/assets/73529790/48287dac-0ba5-4049-93b4-96b19ad4e4e8">
 後端編輯中  
 <img width="1394" alt="後端編輯中_截圖 2023-07-23 下午3 01 17" src="https://github.com/Loren-Cheng/opportunities_accounts_management/assets/73529790/a9bede63-aed9-4512-9304-2d700a1ee71f">
+![日以繼夜](https://github.com/Loren-Cheng/code_sharing_platform/assets/73529790/2229e54b-b01b-48c8-b015-aabe20c3e0c4)  
