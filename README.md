@@ -19,4 +19,6 @@
 <img width="1439" alt="前端編輯中_截圖 2023-07-23 下午3 00 52" src="https://github.com/Loren-Cheng/opportunities_accounts_management/assets/73529790/48287dac-0ba5-4049-93b4-96b19ad4e4e8">
 後端編輯中  
 <img width="1394" alt="後端編輯中_截圖 2023-07-23 下午3 01 17" src="https://github.com/Loren-Cheng/opportunities_accounts_management/assets/73529790/a9bede63-aed9-4512-9304-2d700a1ee71f">
-![日以繼夜](https://github.com/Loren-Cheng/code_sharing_platform/assets/73529790/2229e54b-b01b-48c8-b015-aabe20c3e0c4)  
+發想待研究 商機stage<=>task梳理  <=>需求 抽象化BOM fields(解決方案)?
+![crm](https://github.com/Loren-Cheng/opportunities_accounts_management/assets/73529790/2983882c-ae62-47b4-9685-c2a19a2cb283)
+
